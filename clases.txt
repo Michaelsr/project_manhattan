@@ -5,15 +5,18 @@ Clase 0. introduccion al curso.
 Clase 1. Repaso html y javaScript.
 Clase 2. Introduccion a Flutter e Instalacion. 
 Clase 3. Ejercicios con Flutter.
-Clase 4. Desarrollo Backend.
-Clase 5. Diseñar app(Desarrollo de Mockup). 
+Clase 4. Diseñar app(Desarrollo de Mockup). 
+Clase 5. Desarrollo Backend.
 Clase 6. Desarrollo Frontend.
 Clase 7. Testing.
-Clase 8. Produccion.
+Clase 8. Despliegue.
 Clase 9. Despedida. 
 
 Nota:
 
 - Github para controlar las version
-- Visual Studio Para desarrolar
+- Visual Studio Para desarrollar
 - Android Studio para emular
+
+Repositorio del Projecto 
+https://github.com/Michaelsr/project_manhattan
