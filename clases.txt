@@ -1,0 +1,19 @@
+
+************************ CURSO DE FLUTTER ************************
+
+Clase 0. introduccion al curso.
+Clase 1. Repaso html y javaScript.
+Clase 2. Introduccion a Flutter e Instalacion. 
+Clase 3. Ejercicios con Flutter.
+Clase 4. Desarrollo Backend.
+Clase 5. Diseñar app(Desarrollo de Mockup). 
+Clase 6. Desarrollo Frontend.
+Clase 7. Testing.
+Clase 8. Produccion.
+Clase 9. Despedida. 
+
+Nota:
+
+- Github para controlar las version
+- Visual Studio Para desarrolar
+- Android Studio para emular
