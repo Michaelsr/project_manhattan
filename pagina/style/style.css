@@ -8,20 +8,35 @@
     height: 6em;
     width: 100%;
     display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 .logo{
     height: 100%;
-    width: 20%;
+    width: 30%;
     border: 1px solid rebeccapurple;
 }
 .texto{
     height: 100%;
-    width: 20%;
+    width: 30%;
+    display: flex;
     border: 1px solid rebeccapurple;
 }
 img{
     max-height: 100%;
     max-width: 70%;
+}
+.contacto{
+    border: 1px solid red;
+    height: 100%;
+    width: 30%;
+    display: flex;
+}
+.numero{
+    display: flex;
+}
+.redes{
+    display: flex;
 }
 .cuerpo{
     border: 1px solid orange;
