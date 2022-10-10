@@ -1,0 +1,35 @@
+.contenedor{
+    border: 1px solid red;
+    height: 0%;
+    width: 100%;
+}
+.cabeza{
+    border: 1px solid green;
+    height: 6em;
+    width: 100%;
+    display: flex;
+}
+.logo{
+    height: 100%;
+    width: 20%;
+    border: 1px solid rebeccapurple;
+}
+.texto{
+    height: 100%;
+    width: 20%;
+    border: 1px solid rebeccapurple;
+}
+img{
+    max-height: 100%;
+    max-width: 70%;
+}
+.cuerpo{
+    border: 1px solid orange;
+    height: 30em;
+    width: 100%;
+}
+.patas{
+    border: 1px solid black;
+    height: 6em;
+    width: 100%;
+}
